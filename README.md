@@ -3,8 +3,8 @@ Lecture slides and R codes for the functional data analysis course in 2019
 
 # Order of presentations
 
-# "Boyi" - Feb 4   - "PACE" - FPCA for sparse functional data
-# "Barinder" - Feb 4, 6  - "Single Index model"   
+# "Barinder" - Feb 4, 6  - "Single Index model" 
+# "Boyi" - Feb 4   - "PACE" - FPCA for sparse functional data  
 # "Alex"  - Feb 6    - "FPCA for manifold data"
 # "Dani"  - Feb 11   - "Model-based clustering for functional data"
 # "James" - Feb 11, 13 - functional shape analysis 
