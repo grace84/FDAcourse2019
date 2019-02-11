@@ -8,7 +8,7 @@ Lecture slides and R codes for the functional data analysis course in 2019
 # "Alex"  - Feb 6    - "FPCA for manifold data"
 # "Dani"  - Feb 11   - "Model-based clustering for functional data"
 # "James" - Feb 11, 13 - functional shape analysis 
-# "Daisy" - Feb 13  - "filtering clustering for functional data"   
+# "Daisy" - Feb 13  - "distance-based clustering for sparse functional data"   
 # "Haolun" - Feb 25  - ""
 # "Tianyu"  - Feb 25, 27
 # 
