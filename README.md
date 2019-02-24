@@ -15,6 +15,6 @@ Lecture slides and R codes for the functional data analysis course in 2019
 # "Yanjun"  - Feb 27 
 # "Joel"  - March 4   
 # "Sidi"  - March 4,6 "Functional linear Cox regression model"   
-# "Grace" - March 6 
+# "Grace" - March 6 "The discriminative functional mixture model"
 # "Erin" - March 11  
 # "Leshun" - March 13
